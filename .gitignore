@@ -1,0 +1,20 @@
+# 构建产物
+build/
+
+# 签名密钥 —— 绝不入库
+*.jks
+*.keystore
+*.idsig
+
+# APK 产物
+*.apk
+
+# 反编译参考用的官方 APK / 源码（本地分析用）
+_ref/
+
+# 编辑器 / 系统
+.vs/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

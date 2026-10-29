@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 赛博朋克 · 深空底 -->
+    <color name="bg">#FF05070A</color>
+    <color name="bg2">#FF080C11</color>
+    <color name="surface">#FF0B1117</color>
+    <color name="surface2">#FF0E1620</color>
+    <color name="stroke">#FF14303C</color>
+    <color name="stroke2">#FF1E4A5A</color>
+
+    <!-- 霓虹 -->
+    <color name="neon">#FF00E5FF</color>
+    <color name="neon_dim">#FF00A8BF</color>
+    <color name="magenta">#FFFF2D95</color>
+    <color name="lime">#FF9DFF20</color>
+    <color name="warn">#FFFFD166</color>
+    <color name="danger">#FFFF4D4D</color>
+
+    <!-- 文本 -->
+    <color name="text">#FFE6F6F9</color>
+    <color name="text_dim">#FF7A99A6</color>
+    <color name="text_faint">#FF4A6672</color>
+</resources>
